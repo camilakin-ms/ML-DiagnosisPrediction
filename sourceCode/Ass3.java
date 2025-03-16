@@ -1,4 +1,4 @@
-// Camila Kin Marquez Sosa 40234852
+// Camila Kin Marquez Sosa
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.Collections;
 import java.util.ArrayList;
 
-public class Ass3 {
+public class Ass3 { // assignment 3 class is used for processing input data into training and testing 
 
     private static int numAttributes;      // both training and testing lists will have the same number of attributes
     private static Point[] trainList;
