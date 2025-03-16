@@ -1,4 +1,4 @@
-// Camila Kin Marquez Sosa 40234852
+// Camila Kin Marquez Sosa 
 
 import java.math.BigDecimal;
 import java.util.PriorityQueue;
