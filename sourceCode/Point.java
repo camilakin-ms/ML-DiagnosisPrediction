@@ -1,4 +1,4 @@
-// Camila Kin Marquez Sosa 40234852
+// Camila Kin Marquez Sosa 
 
 // a Point has an id, a diagnosis (B/M) and an array of attributes (doubles)
 // they are separate so only the attributes contribute to building a tree
