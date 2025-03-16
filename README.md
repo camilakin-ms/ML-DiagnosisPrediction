@@ -13,6 +13,7 @@ As a project for COEN352, I built a Machine Learing model with Java to predict t
 
 #### K-D Tree structure
 The following image shows the base K-D Tree structure for this ML model. It is a full, balanced binary tree which organizes data by comparing different attributes at each depth level.
+
 <img width="689" alt="Screenshot 2025-03-16 at 11 12 57 AM" src="https://github.com/user-attachments/assets/9e9b5579-133d-4621-8bb9-54be77d1b1bb" />
 
 #### K-D Tree building algorithm
