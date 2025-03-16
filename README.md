@@ -17,10 +17,12 @@ The following image shows the base K-D Tree structure for this ML model. It is a
 
 #### K-D Tree building algorithm
 The algorithm to build a balanced K-D tree of any dimension is depicted in the flowchart. At each depth, the attribute used for comparison is determined and the data is sorted based on it. Then, the midpoint is found and set as the current Node, and the tree is built recursively to the left and to the right using the corresponding left and right subarrays.
+
 <img width="378" alt="Screenshot 2025-03-16 at 11 16 03 AM" src="https://github.com/user-attachments/assets/c4435ce8-2476-4090-a555-1c421d771356" />
 
 #### Testing K-D Tree with k-NN algorithm
 This algorithm tests the accuracy and runtime of predicting diagnoses for the testing list. For every instance in the testing Points array, its k nearest neighbors are found in the K-D tree. Then, through majority voting, a diagnosis (B for benign or M for malignant) is predicted for that Point. Finally, the predicted and actual diagnoses of each Point are compared, and the total number of correct and incorrect predictions is found. The percentage of accuracy is then calculated and output.
+
 <img width="482" alt="Screenshot 2025-03-16 at 11 17 34 AM" src="https://github.com/user-attachments/assets/f84f0c39-0aeb-4298-af52-83b0198352b4" />
 
 ### Lessons & Conclusion
